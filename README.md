@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am an AI & Data Science undergraduate passionate about building scalable, real-world solutions across web, AI, and IoT domains. I enjoy working at the intersection of software engineering and intelligent systems, turning ideas into functional products.<br><br>I have hands-on experience with a wide range of technologies and frameworks, including Python, Java, C, JavaScript, Node.js, Express.js, React, Next.js, Django, TensorFlow, PyTorch, IoT systems, and Google Cloud Platform (GCP). I also work with databases, APIs, and modern development tools to build full-stack and cloud-ready applications.<br><br>I am highly adaptable, quick to learn new technologies, and focused on writing clean, efficient, and production-ready code. My goal is to contribute to impactful projects in AI, cloud computing, and software engineering while continuously expanding my technical expertise.
+Hi, I’m Zainab Jahan Umaima, a 3rd year undergraduate student in Artificial Intelligence and Data Science. I am passionate about building intelligent and real-world applications, especially in the field of Agentic AI and modern software systems.
+
+I have experience working with technologies like Python, Java, C, JavaScript, Node.js, Express.js, React, Next.js, Django, IoT systems, and Google Cloud Platform (GCP). I am also exploring AI agents, LLM-based applications, cloud deployment, and automation tools to build scalable and impactful solutions.
+
+I enjoy learning new technologies quickly, adapting to different problem domains, and working on projects that combine AI, web development, and cloud computing.
 
 
 ## 🌐 Socials:
